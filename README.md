@@ -4,4 +4,3 @@
 4. 设置浏览器网址前的【不安全】按钮，打开点击网页设置，找到【不安全内容】，【自动下载项】并设置允许；
 
 > 预计用时1h
-[ChromeDriver下载官网](https://googlechromelabs.github.io/chrome-for-testing/)
